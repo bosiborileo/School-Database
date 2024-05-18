@@ -3,8 +3,6 @@
 This project is a school database system designed to manage and store information related to a school's operations. 
 
 ### Features
-
-*  (Replace with features your database offers. Here are some examples):
     * Student Management: Add, edit, and delete student information.
     * Staff Management: Manage staff information including teachers and administrators.
     * Class Management: Create and manage classes with enrolled students and assigned teachers.
